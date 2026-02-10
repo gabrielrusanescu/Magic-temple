@@ -19,7 +19,7 @@ Implement decryption algorithms to understand "encrypted" messages from the temp
 Caesar Cipher: Decrypt text and numbers by "rotating" characters and digits based on a given integer key.
 Vigenère Cipher: Decrypt text and numbers using a keyword.
 Large Number Addition: Decrypt two large numbers (stored as strings) and calculate their sum. Note: Numbers must be handled as strings; conversion to int or long long is forbidden.
-
+ 
 Task 3: The Helper
 Build a simplified Natural Language Processing (NLP) tool to calculate the frequency of 2-grams (sequences of two consecutive words) in a given text.
 Constraint: Only strings and vectors are allowed. Using other complex data structures will result in total loss of points for this task.
