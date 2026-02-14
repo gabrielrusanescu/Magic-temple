@@ -6,7 +6,7 @@ The theme follows a journey through an ancient magic temple where various "mysti
 
 
 Assignment Structure
-The project is divided into three main tasks, each focusing on different programming concepts:
+The project is divided into three main tasks, each focusing on different programming concepts: 
 
 Task 1: Magic Words
 Navigate a square matrix of size N times M by decoding three types of "magic words" to determine the next move:
